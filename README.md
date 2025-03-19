@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a Data Scientist (student) in New York. I'm passionate about Machine Learning, and everything AI. I'm constantly looking to grow my skills, meet new people, and join communities! 
+I'm a Data Scientist (MS student) in New York. I'm passionate about Machine Learning, and everything AI. I'm constantly looking to grow my skills, meet new people, and join communities! 
 
 Check out the projects I've made. If you'd like to collaborate on something, feel free to reach out!
 
